@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #E4C1F9;
+  }
+  
+h1{
+    display: flex;
+    justify-content: center;
+    color: #15616d;
+    font-size: 50px;
+}
+
+#formContainer{
+    display: block;
+    text-align: center;
+}
+#inputForm{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#firstName {
+    margin: 15px;
+    width: 10rem;
+}
+
+#lastName {
+    margin: 15px;
+    width: 10rem;
+}
+
+#age {
+    margin: 15px;
+    width: 10rem;
+}
+
+#button {
+    margin: 15px 75px;
+ 
+    
+} 
+#greeting {
+color: #3d405b;
+font-weight: bold;
+font-size: 35px;
+}
